@@ -30,4 +30,4 @@ Deploying contract in to Rinkby Network
 ```script
 node deploy.js
 ```
-Not the address where contract is deployed. The 'ADDRESS' file in this project
+Note the address where contract is deployed. The 'ADDRESS' file in this project
