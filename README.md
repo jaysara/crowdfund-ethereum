@@ -33,7 +33,7 @@ node deploy.js
 Note the address where contract is deployed. The 'ADDRESS' file in this project represents the address where contract is deployed.
 
 Please modify factory.js file with the new deployed  contract.
-''json
+```json
 const instance = new web3.eth.Contract(
   JSON.parse(CampaignFactory.interface)
   ,'0x6860d7d0c295983eE847D5c362A9917671EAA9d1');
