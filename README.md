@@ -39,3 +39,9 @@ const instance = new web3.eth.Contract(
   ,'0x6860d7d0c295983eE847D5c362A9917671EAA9d1');
 
 ```
+
+### How to Run the program.
+```
+npm run dev
+```
+* The UI should start at localhost:3000
